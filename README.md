@@ -448,4 +448,4 @@ Backtesting replays historical spot index candles through the strategy engine. F
 
 ## License
 
-MIT
+LGPL-3.0 — see [LICENSE](LICENSE)
